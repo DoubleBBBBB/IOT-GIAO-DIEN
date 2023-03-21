@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="myimg">
+    <file>logo.png</file>
+    <file>densang.jpg</file>
+    <file>dentat.jpg</file>
+  </qresource>
+</RCC>
